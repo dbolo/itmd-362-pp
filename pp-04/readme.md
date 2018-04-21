@@ -27,11 +27,11 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
-* How you implemented it in your sketch:
+* HCI Guidline One (URL):https://www.tutorialspoint.com/human_computer_interface/guidelines_in_hci.htm
+* How you implemented it in your sketch: the information on IIT Website is so bulky, so many information on the site, get user confuse. I plan to make my site so simple to reduce time. on the login page, you will only have the login information
 
-* HCI Guidline Two (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Two (URL):https://developer.apple.com/ios/human-interface-guidelines/overview/themes/
+* How you implemented it in your sketch: another issue with the site is the lack of clarity. I will provide clear and direct  information, what you need to do and how
 
-* HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Three (URL):https://www.linkedin.com/pulse/human-computer-interaction-hci-guidelines-amitabha-chakraborty
+* How you implemented it in your sketch:Effectiveness: concern a user’s ability to accomplish a desired goal or to carry out work
