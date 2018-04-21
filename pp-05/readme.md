@@ -15,18 +15,18 @@ your own master usability checklist.
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1.https://stayintech.com/UX
+2.https://internetdevels.com/blog/50-point-checklist-for-website-usability-testing
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1.Navigation is consistent on every page.
+2.Links are easily recognizable
+3.Visited link color is different than unvisited.
+4.Important content is displayed first
+5.Form submission is confirmed
+6.Responsive Design
+7.Zero Clutter
+8.Intuitive Navigation
+9.Clear Visual Cues
+10.Follow Web Standards
